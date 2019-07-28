@@ -6,6 +6,7 @@ base::library("gplots")
 base::library("graphics")
 base::library("ca")
 
+
 # Simulation parameters
 sample_size <- 1000
 # Rows
